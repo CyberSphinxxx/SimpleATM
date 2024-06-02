@@ -1,5 +1,7 @@
 # ATM Simulation using Tkinter
 
+This is an activity for a Computer Programming 2 Subject in USTP, ```Submitted by: John Lemar L. Gonzales```
+
 This project is a simple ATM simulation created using the Tkinter library in Python. It allows users to check their balance and withdraw funds through a graphical user interface.
 
 ## Features
